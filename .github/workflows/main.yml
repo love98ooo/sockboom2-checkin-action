@@ -3,8 +3,8 @@ name: 'SockBoom Checkin Action'
 on:
 #  release:
 #    types: [published]
-#  push:
-#    branches: [master]
+  push:
+    branches: [master]
 #    #    tags:
 #    #      - 'v*'
   schedule:
